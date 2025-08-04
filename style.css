@@ -12,5 +12,8 @@ body{
     color: var(--branco);
 }
 .conteudo-titulo{
-    
+    text-align: center;
+}
+*{
+    font-weight: 400;
 }
