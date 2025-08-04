@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+:root{
+    --branco:white;
+    --cor-de-fundo:#410505;
+    --fundo-senha:#661313;
+    --fundo-texto:#3f1111;
+    --borda:#ed0808;
+    --fonte-principal:Swap;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+.conteudo-titulo{
+    
+}
