@@ -91,7 +91,7 @@ img{
  @media screen and (min-width: 768px) 
  .parametro-coluna-senha{
         flex-direction: row;
- }
+ 
 }
 .checkbox{
     width: 20px;
