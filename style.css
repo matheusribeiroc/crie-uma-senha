@@ -90,5 +90,41 @@ img{
 }
  @media screen and (min-width: 768px) 
  .parametro-coluna-senha{
-        flex-direction: flex;
+        flex-direction: row;
  }
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #420707;
+    position: relative;
+    bottom: 30px;
+}
+.media{
+    height: 30px;
+    width: 50%;
+    background-color: #f0f007;
+    position: relative;
+    bottom: 30px;
+}
+.forte{
+    height: 30px;
+    width: 100%;
+    background-color: #16d508;
+    position: relative;
+    bottom: 30px;
+}
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
